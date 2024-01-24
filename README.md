@@ -4,7 +4,7 @@ Welcome to JS-DSA-Wonderland, where the magic of JavaScript meets the power of D
 
 ## What's Inside?
 
-Dive into a world of coding adventures with our curated collection of JavaScript snippets that bring algorithms to life and give data structures their unique charm. From the simplicity of a linked list to the elegance of a binary search tree, our code snippets are your trusty companions in the journey of mastering DSA with JavaScript.
+Dive into a world of coding adventures with our curated collection of JavaScript snippets that bring algorithms to life and give data structures their unique charm. From the simplicity of a linked list to the elegance of a binary search tree, these code snippets are your trusty companions in the journey of mastering DSA with JavaScript.
 
 ### Example: Bubble Sort Ballet 💃
 
